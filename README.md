@@ -10,13 +10,9 @@ Default Android TV home screens are frequently cluttered with sponsored banners,
 TL;DR: Deploy **Aerial** for a clean launcher, pair it with **CleanYourTV** for background debloating, and organize desktop clutter on macOS using **Bartender 7**.
 
 Tool | What it does | Notes
-
 --- | --- | ---
-
 Aerial-TV | Replaces default Android TV home screen with clean app icons and aerial wallpapers | Supports Apple TV dynamic screensavers and mobile QR configuration
-
 CleanYourTV | Trims system bloatware and background telemetry services | Targets vendor-specific packages and startup processes
-
 Bartender 7 | Manages macOS menu bar items with automated hide and show rules | Keeps menu bar space organized on displays with camera notches
 
 ## Aerial-TV: Replacing the TV Home Screen
